@@ -1,0 +1,233 @@
+INFO 2022-03-28 12:42:40,712 autoreload 6720 13184 Watching for file changes with StatReloader
+INFO 2022-03-28 12:42:40,938 basehttp 6720 14496 "GET / HTTP/1.1" 200 10799
+INFO 2022-03-28 12:46:31,846 views 2860 13444 url:/profile/ method:GET 
+INFO 2022-03-28 12:46:31,871 views 2860 13444 url:/profile/ method:POST 
+WARNING 2022-03-28 12:46:31,975 log 2860 13444 Not Found: /myrecipes/
+INFO 2022-03-28 12:46:32,275 views 2860 13444 url:/myrecipes/ method:GET 
+INFO 2022-03-28 12:46:32,493 views 2860 13444 url:/register/ method:GET 
+INFO 2022-03-28 12:46:32,509 views 2860 13444 url:/register/ method:POST 
+INFO 2022-03-28 12:46:32,525 views 2860 13444 url:/register/ method:POST 
+INFO 2022-03-28 12:46:32,543 views 2860 13444 url:/register/ method:POST 
+INFO 2022-03-28 12:50:52,777 views 15324 19988 url:/profile/ method:GET 
+INFO 2022-03-28 12:50:52,801 views 15324 19988 url:/profile/ method:POST 
+WARNING 2022-03-28 12:50:52,906 log 15324 19988 Not Found: /myrecipes/
+INFO 2022-03-28 12:50:53,207 views 15324 19988 url:/myrecipes/ method:GET 
+INFO 2022-03-28 12:50:53,574 views 15324 19988 url:/register/ method:GET 
+INFO 2022-03-28 12:50:53,591 views 15324 19988 url:/register/ method:POST 
+INFO 2022-03-28 12:50:53,607 views 15324 19988 url:/register/ method:POST 
+INFO 2022-03-28 12:50:53,624 views 15324 19988 url:/register/ method:POST 
+INFO 2022-03-28 12:51:08,909 views 11520 3872 url:/profile/ method:GET 
+INFO 2022-03-28 12:51:08,934 views 11520 3872 url:/profile/ method:POST 
+WARNING 2022-03-28 12:51:09,026 log 11520 3872 Not Found: /myrecipes/
+INFO 2022-03-28 12:51:09,325 views 11520 3872 url:/myrecipes/ method:GET 
+INFO 2022-03-28 12:51:09,679 views 11520 3872 url:/register/ method:GET 
+INFO 2022-03-28 12:51:09,696 views 11520 3872 url:/register/ method:POST 
+INFO 2022-03-28 12:51:09,712 views 11520 3872 url:/register/ method:POST 
+INFO 2022-03-28 12:51:09,730 views 11520 3872 url:/register/ method:POST 
+INFO 2022-03-28 13:02:51,273 views 6932 19904 url:/profile/ method:GET 
+INFO 2022-03-28 13:02:51,300 views 6932 19904 url:/profile/ method:POST 
+WARNING 2022-03-28 13:02:51,394 log 6932 19904 Not Found: /myrecipes/
+INFO 2022-03-28 13:02:51,691 views 6932 19904 url:/myrecipes/ method:GET 
+INFO 2022-03-28 13:02:51,897 views 6932 19904 url:/register/ method:GET 
+INFO 2022-03-28 13:02:51,914 views 6932 19904 url:/register/ method:POST 
+INFO 2022-03-28 13:02:51,930 views 6932 19904 url:/register/ method:POST 
+INFO 2022-03-28 13:02:51,947 views 6932 19904 url:/register/ method:POST 
+INFO 2022-03-28 13:03:25,379 views 22020 6308 url:/profile/ method:GET 
+INFO 2022-03-28 13:03:25,403 views 22020 6308 url:/profile/ method:POST 
+WARNING 2022-03-28 13:03:25,501 log 22020 6308 Not Found: /myrecipes/
+INFO 2022-03-28 13:03:25,801 views 22020 6308 url:/myrecipes/ method:GET 
+INFO 2022-03-28 13:03:26,017 views 22020 6308 url:/register/ method:GET 
+INFO 2022-03-28 13:03:26,034 views 22020 6308 url:/register/ method:POST 
+INFO 2022-03-28 13:03:26,050 views 22020 6308 url:/register/ method:POST 
+INFO 2022-03-28 13:03:26,067 views 22020 6308 url:/register/ method:POST 
+INFO 2022-03-28 13:03:38,147 views 5332 9108 url:/profile/ method:GET 
+INFO 2022-03-28 13:03:38,172 views 5332 9108 url:/profile/ method:POST 
+WARNING 2022-03-28 13:03:38,267 log 5332 9108 Not Found: /myrecipes/
+INFO 2022-03-28 13:03:38,568 views 5332 9108 url:/myrecipes/ method:GET 
+INFO 2022-03-28 13:03:38,777 views 5332 9108 url:/register/ method:GET 
+INFO 2022-03-28 13:03:38,793 views 5332 9108 url:/register/ method:POST 
+INFO 2022-03-28 13:03:38,810 views 5332 9108 url:/register/ method:POST 
+INFO 2022-03-28 13:03:38,828 views 5332 9108 url:/register/ method:POST 
+INFO 2022-03-28 13:03:58,365 views 12524 4964 url:/profile/ method:GET 
+INFO 2022-03-28 13:03:58,389 views 12524 4964 url:/profile/ method:POST 
+WARNING 2022-03-28 13:03:58,471 log 12524 4964 Not Found: /myrecipes/
+INFO 2022-03-28 13:03:58,782 views 12524 4964 url:/myrecipes/ method:GET 
+INFO 2022-03-28 13:03:58,993 views 12524 4964 url:/register/ method:GET 
+INFO 2022-03-28 13:03:59,009 views 12524 4964 url:/register/ method:POST 
+INFO 2022-03-28 13:03:59,026 views 12524 4964 url:/register/ method:POST 
+INFO 2022-03-28 13:03:59,043 views 12524 4964 url:/register/ method:POST 
+INFO 2022-03-28 13:04:38,956 views 20456 20008 url:/profile/ method:GET 
+INFO 2022-03-28 13:04:38,980 views 20456 20008 url:/profile/ method:POST 
+WARNING 2022-03-28 13:04:39,062 log 20456 20008 Not Found: /myrecipes/
+INFO 2022-03-28 13:04:39,365 views 20456 20008 url:/myrecipes/ method:GET 
+INFO 2022-03-28 13:04:39,572 views 20456 20008 url:/register/ method:GET 
+INFO 2022-03-28 13:04:39,589 views 20456 20008 url:/register/ method:POST 
+INFO 2022-03-28 13:04:39,604 views 20456 20008 url:/register/ method:POST 
+INFO 2022-03-28 13:04:39,622 views 20456 20008 url:/register/ method:POST 
+INFO 2022-03-28 14:32:00,401 views 1972 6996 url:/profile/ method:GET 
+INFO 2022-03-28 14:32:00,426 views 1972 6996 url:/profile/ method:POST 
+WARNING 2022-03-28 14:32:00,511 log 1972 6996 Not Found: /myrecipes/
+INFO 2022-03-28 14:32:00,809 views 1972 6996 url:/myrecipes/ method:GET 
+INFO 2022-03-28 14:32:01,016 views 1972 6996 url:/register/ method:GET 
+INFO 2022-03-28 14:32:01,032 views 1972 6996 url:/register/ method:POST 
+INFO 2022-03-28 14:32:01,049 views 1972 6996 url:/register/ method:POST 
+INFO 2022-03-28 14:32:01,067 views 1972 6996 url:/register/ method:POST 
+INFO 2022-03-28 14:32:22,504 views 13988 23132 url:/profile/ method:GET 
+INFO 2022-03-28 14:32:22,529 views 13988 23132 url:/profile/ method:POST 
+WARNING 2022-03-28 14:32:22,612 log 13988 23132 Not Found: /myrecipes/
+INFO 2022-03-28 14:32:22,913 views 13988 23132 url:/myrecipes/ method:GET 
+INFO 2022-03-28 14:32:23,127 views 13988 23132 url:/register/ method:GET 
+INFO 2022-03-28 14:32:23,144 views 13988 23132 url:/register/ method:POST 
+INFO 2022-03-28 14:32:23,160 views 13988 23132 url:/register/ method:POST 
+INFO 2022-03-28 14:32:23,178 views 13988 23132 url:/register/ method:POST 
+INFO 2022-03-28 14:35:22,093 views 19168 21332 url:/profile/ method:GET 
+INFO 2022-03-28 14:35:22,116 views 19168 21332 url:/profile/ method:POST 
+WARNING 2022-03-28 14:35:22,198 log 19168 21332 Not Found: /myrecipes/
+INFO 2022-03-28 14:35:22,497 views 19168 21332 url:/myrecipes/ method:GET 
+INFO 2022-03-28 14:35:22,705 views 19168 21332 url:/register/ method:GET 
+INFO 2022-03-28 14:35:22,721 views 19168 21332 url:/register/ method:POST 
+INFO 2022-03-28 14:35:22,738 views 19168 21332 url:/register/ method:POST 
+INFO 2022-03-28 14:35:22,755 views 19168 21332 url:/register/ method:POST 
+INFO 2022-03-28 14:36:02,062 views 12760 2644 url:/profile/ method:GET 
+INFO 2022-03-28 14:36:02,085 views 12760 2644 url:/profile/ method:POST 
+WARNING 2022-03-28 14:36:02,168 log 12760 2644 Not Found: /myrecipes/
+INFO 2022-03-28 14:36:02,466 views 12760 2644 url:/myrecipes/ method:GET 
+INFO 2022-03-28 14:36:02,681 views 12760 2644 url:/register/ method:GET 
+INFO 2022-03-28 14:36:02,699 views 12760 2644 url:/register/ method:POST 
+INFO 2022-03-28 14:36:02,715 views 12760 2644 url:/register/ method:POST 
+INFO 2022-03-28 14:36:02,732 views 12760 2644 url:/register/ method:POST 
+INFO 2022-03-28 14:36:10,085 basehttp 6720 20416 "GET /?c=Choose... HTTP/1.1" 200 3083
+INFO 2022-03-28 14:36:11,151 basehttp 6720 20416 "GET /?c=Choose... HTTP/1.1" 200 3083
+INFO 2022-03-28 14:36:13,335 basehttp 6720 20416 "GET / HTTP/1.1" 200 10799
+INFO 2022-03-28 14:36:19,742 basehttp 6720 20416 "GET /?c=Choose... HTTP/1.1" 200 3083
+INFO 2022-03-28 14:36:21,780 basehttp 6720 20416 "GET /?s= HTTP/1.1" 200 10799
+INFO 2022-03-28 14:36:22,717 basehttp 6720 20416 "GET /?s= HTTP/1.1" 200 10799
+INFO 2022-03-28 14:36:32,957 basehttp 6720 20416 "GET /?c=Choose... HTTP/1.1" 200 3083
+INFO 2022-03-28 14:36:34,508 basehttp 6720 20416 "GET /?c=Choose... HTTP/1.1" 200 3083
+INFO 2022-03-28 14:37:38,719 views 9660 2728 url:/profile/ method:GET 
+INFO 2022-03-28 14:37:38,742 views 9660 2728 url:/profile/ method:POST 
+WARNING 2022-03-28 14:37:38,833 log 9660 2728 Not Found: /myrecipes/
+INFO 2022-03-28 14:37:39,132 views 9660 2728 url:/myrecipes/ method:GET 
+INFO 2022-03-28 14:37:39,337 views 9660 2728 url:/register/ method:GET 
+INFO 2022-03-28 14:37:39,354 views 9660 2728 url:/register/ method:POST 
+INFO 2022-03-28 14:37:39,370 views 9660 2728 url:/register/ method:POST 
+INFO 2022-03-28 14:37:39,388 views 9660 2728 url:/register/ method:POST 
+INFO 2022-03-29 02:10:39,927 autoreload 9656 4492 Watching for file changes with StatReloader
+INFO 2022-03-29 02:10:40,279 basehttp 9656 22400 "GET / HTTP/1.1" 200 10799
+INFO 2022-03-29 02:10:40,320 basehttp 9656 22400 "GET /staticfiles/css/main.css HTTP/1.1" 200 5378
+INFO 2022-03-29 02:10:40,325 basehttp 9656 18856 "GET /mediafiles/logo.jpg HTTP/1.1" 200 6892
+INFO 2022-03-29 02:10:40,325 basehttp 9656 13504 "GET /mediafiles/default.jpg HTTP/1.1" 200 21334
+INFO 2022-03-29 02:10:40,414 basehttp 9656 18856 "GET /staticfiles/css/5.jpg HTTP/1.1" 200 3945438
+WARNING 2022-03-29 02:10:40,797 log 9656 18856 Not Found: /favicon.ico
+WARNING 2022-03-29 02:10:40,798 basehttp 9656 18856 "GET /favicon.ico HTTP/1.1" 404 5477
+INFO 2022-05-03 12:13:13,246 autoreload 19156 4832 Watching for file changes with StatReloader
+INFO 2022-05-03 12:13:13,729 basehttp 19156 17236 "GET / HTTP/1.1" 200 10799
+INFO 2022-05-03 12:13:13,772 basehttp 19156 17236 "GET /staticfiles/css/main.css HTTP/1.1" 200 5378
+INFO 2022-05-03 12:13:13,785 basehttp 19156 17236 "GET /mediafiles/logo.jpg HTTP/1.1" 200 6892
+INFO 2022-05-03 12:13:13,785 basehttp 19156 17356 "GET /mediafiles/default.jpg HTTP/1.1" 200 21334
+INFO 2022-05-03 12:13:13,875 basehttp 19156 17356 "GET /staticfiles/css/5.jpg HTTP/1.1" 200 3945438
+WARNING 2022-05-03 12:13:14,120 log 19156 17356 Not Found: /favicon.ico
+WARNING 2022-05-03 12:13:14,120 basehttp 19156 17356 "GET /favicon.ico HTTP/1.1" 404 5477
+INFO 2022-05-03 12:13:17,432 basehttp 19156 17356 "GET /?page=2 HTTP/1.1" 200 5137
+INFO 2022-05-03 12:13:20,441 basehttp 19156 17356 "GET /?page=1 HTTP/1.1" 200 10799
+INFO 2022-05-03 12:13:24,139 basehttp 19156 17356 "GET /login/ HTTP/1.1" 200 3547
+INFO 2022-05-03 12:13:26,775 basehttp 19156 17356 "POST /login/ HTTP/1.1" 302 0
+INFO 2022-05-03 12:13:26,811 basehttp 19156 17356 "GET / HTTP/1.1" 200 10940
+INFO 2022-05-03 12:13:36,968 basehttp 19156 17356 "GET /recipe/new/ HTTP/1.1" 200 9007
+INFO 2022-05-03 12:18:14,840 basehttp 19156 17356 "POST /recipe/new/ HTTP/1.1" 200 9784
+INFO 2022-05-03 12:18:24,344 basehttp 19156 17356 "POST /recipe/new/ HTTP/1.1" 200 7664
+INFO 2022-05-03 12:20:25,725 views 19156 17356 url:/recipe/new/ method:POST 
+INFO 2022-05-03 12:20:25,727 basehttp 19156 17356 "POST /recipe/new/ HTTP/1.1" 302 0
+INFO 2022-05-03 12:20:25,766 basehttp 19156 17356 "GET /recipe/17/ HTTP/1.1" 200 5214
+INFO 2022-05-03 12:23:13,865 basehttp 19156 17356 "GET /recipe/17/update/ HTTP/1.1" 200 9562
+INFO 2022-05-03 12:23:18,587 basehttp 19156 17356 "POST /recipe/17/update/ HTTP/1.1" 200 12118
+INFO 2022-05-03 12:23:19,821 basehttp 19156 17356 "POST /recipe/17/update/ HTTP/1.1" 200 12118
+INFO 2022-05-03 12:23:22,210 basehttp 19156 17356 "POST /recipe/17/update/ HTTP/1.1" 200 12118
+INFO 2022-05-03 12:23:22,929 basehttp 19156 17356 "POST /recipe/17/update/ HTTP/1.1" 200 12118
+INFO 2022-05-03 12:23:23,602 basehttp 19156 17356 "POST /recipe/17/update/ HTTP/1.1" 200 12118
+INFO 2022-05-03 12:23:24,232 basehttp 19156 17356 "POST /recipe/17/update/ HTTP/1.1" 200 12118
+INFO 2022-05-03 12:23:24,723 basehttp 19156 17356 "POST /recipe/17/update/ HTTP/1.1" 200 12118
+INFO 2022-05-03 12:23:25,178 basehttp 19156 17356 "POST /recipe/17/update/ HTTP/1.1" 200 12118
+INFO 2022-05-03 12:23:25,383 basehttp 19156 17356 "POST /recipe/17/update/ HTTP/1.1" 200 12118
+INFO 2022-05-03 12:23:28,015 basehttp 19156 17356 "POST /recipe/17/update/ HTTP/1.1" 200 13238
+INFO 2022-05-03 12:23:30,374 basehttp 19156 17356 "POST /recipe/17/update/ HTTP/1.1" 200 13238
+INFO 2022-05-03 12:23:32,007 basehttp 19156 17356 "POST /recipe/17/update/ HTTP/1.1" 200 9557
+INFO 2022-05-03 12:24:06,940 basehttp 19156 17356 "POST /recipe/17/update/ HTTP/1.1" 200 12118
+INFO 2022-05-03 12:24:10,572 basehttp 19156 17356 "POST /recipe/17/update/ HTTP/1.1" 200 12109
+INFO 2022-05-03 12:24:14,687 basehttp 19156 17356 "POST /recipe/17/update/ HTTP/1.1" 200 12117
+INFO 2022-05-03 12:24:16,858 basehttp 19156 17356 "POST /recipe/17/update/ HTTP/1.1" 200 9557
+INFO 2022-05-03 12:24:18,406 basehttp 19156 17356 "POST /recipe/17/update/ HTTP/1.1" 200 12118
+INFO 2022-05-03 12:24:19,274 basehttp 19156 17356 "POST /recipe/17/update/ HTTP/1.1" 200 12118
+INFO 2022-05-03 12:24:29,524 basehttp 19156 17356 "POST /recipe/17/update/ HTTP/1.1" 200 7753
+INFO 2022-05-03 12:24:32,539 basehttp 19156 17356 "POST /recipe/17/update/ HTTP/1.1" 200 7611
+INFO 2022-05-03 12:24:36,029 basehttp 19156 17356 "POST /recipe/17/update/ HTTP/1.1" 200 9845
+INFO 2022-05-03 12:24:38,686 basehttp 19156 17356 "POST /recipe/17/update/ HTTP/1.1" 200 10968
+INFO 2022-05-03 12:24:42,040 basehttp 19156 17356 "POST /recipe/17/update/ HTTP/1.1" 200 9845
+INFO 2022-05-03 12:24:42,998 basehttp 19156 17356 "POST /recipe/17/update/ HTTP/1.1" 200 9557
+INFO 2022-05-03 12:24:45,252 basehttp 19156 17356 "GET / HTTP/1.1" 200 10930
+INFO 2022-05-03 12:24:47,978 basehttp 19156 17356 "GET /recipe/17/ HTTP/1.1" 200 5214
+INFO 2022-05-03 12:27:00,813 basehttp 19156 17356 "GET /recipe/17/update/ HTTP/1.1" 200 9562
+INFO 2022-05-03 12:27:53,476 basehttp 19156 17356 "POST /recipe/17/update/ HTTP/1.1" 200 9677
+INFO 2022-05-03 12:27:57,120 basehttp 19156 17356 "POST /recipe/17/update/ HTTP/1.1" 200 12118
+INFO 2022-05-03 12:29:17,382 views 19156 17356 url:/myrecipes/ method:GET 
+INFO 2022-05-03 12:29:17,399 basehttp 19156 17356 "GET /myrecipes/ HTTP/1.1" 200 9858
+INFO 2022-05-03 12:31:00,810 views 19156 17356 url:/myrecipes/ method:GET 
+INFO 2022-05-03 12:31:00,821 basehttp 19156 17356 "GET /myrecipes/ HTTP/1.1" 200 9858
+INFO 2022-05-03 12:31:03,960 basehttp 19156 17356 "GET /recipe/new/ HTTP/1.1" 200 9007
+INFO 2022-05-03 12:37:42,201 basehttp 19156 9632 "POST /recipe/new/ HTTP/1.1" 200 9784
+INFO 2022-05-03 12:38:09,031 basehttp 19156 9632 "POST /recipe/new/ HTTP/1.1" 200 11200
+INFO 2022-05-03 12:38:14,709 basehttp 19156 9632 "POST /recipe/new/ HTTP/1.1" 200 9784
+INFO 2022-05-03 12:38:51,300 basehttp 19156 9632 "POST /recipe/new/ HTTP/1.1" 200 7664
+INFO 2022-05-03 12:42:16,140 views 19156 9632 url:/recipe/new/ method:POST 
+INFO 2022-05-03 12:42:16,142 basehttp 19156 9632 "POST /recipe/new/ HTTP/1.1" 302 0
+INFO 2022-05-03 12:42:16,175 basehttp 19156 9632 "GET /recipe/18/ HTTP/1.1" 200 7554
+INFO 2022-05-03 12:42:16,218 basehttp 19156 9632 "GET /mediafiles/recipes_pics/Fish_and_chips.jpg HTTP/1.1" 200 440728
+INFO 2022-05-03 12:47:00,214 basehttp 19156 9632 "GET /recipe/18/update/ HTTP/1.1" 200 11737
+INFO 2022-05-03 12:47:07,985 basehttp 19156 9632 "POST /recipe/18/update/ HTTP/1.1" 200 13397
+INFO 2022-05-03 12:47:09,563 basehttp 19156 9632 "POST /recipe/18/update/ HTTP/1.1" 200 13397
+INFO 2022-10-11 15:52:09,504 autoreload 15960 25944 Watching for file changes with StatReloader
+INFO 2022-10-11 15:52:09,995 basehttp 15960 6504 "GET / HTTP/1.1" 200 10913
+INFO 2022-10-11 15:52:10,038 basehttp 15960 6504 "GET /staticfiles/css/main.css HTTP/1.1" 200 5378
+INFO 2022-10-11 15:52:10,268 basehttp 15960 6504 "GET /mediafiles/logo.jpg HTTP/1.1" 200 6892
+INFO 2022-10-11 15:52:10,268 basehttp 15960 3424 "GET /mediafiles/default.jpg HTTP/1.1" 200 21334
+INFO 2022-10-11 15:52:10,271 basehttp 15960 20444 "GET /mediafiles/recipes_pics/Fish_and_chips.jpg HTTP/1.1" 200 440728
+INFO 2022-10-11 15:52:10,328 basehttp 15960 13168 "GET /staticfiles/css/5.jpg HTTP/1.1" 200 3945438
+WARNING 2022-10-11 15:52:10,632 log 15960 13168 Not Found: /favicon.ico
+WARNING 2022-10-11 15:52:10,633 basehttp 15960 13168 "GET /favicon.ico HTTP/1.1" 404 5477
+INFO 2022-10-11 15:52:13,557 basehttp 15960 13168 "GET /login/ HTTP/1.1" 200 3547
+INFO 2022-10-11 15:52:14,464 views 15960 13168 url:/register/ method:GET 
+INFO 2022-10-11 15:52:14,495 basehttp 15960 13168 "GET /register/ HTTP/1.1" 200 4502
+INFO 2022-10-11 15:52:15,897 basehttp 15960 13168 "GET / HTTP/1.1" 200 10913
+INFO 2022-10-11 15:52:21,016 basehttp 15960 13168 "GET /recipe/18/ HTTP/1.1" 200 7105
+INFO 2022-10-11 15:52:43,312 basehttp 15960 13168 "GET / HTTP/1.1" 200 10913
+INFO 2022-10-11 15:52:51,234 basehttp 15960 13168 "GET /?s=fish HTTP/1.1" 200 4033
+INFO 2022-10-11 15:52:53,735 basehttp 15960 13168 "GET /?c=Picnic HTTP/1.1" 200 3083
+INFO 2022-10-11 15:52:55,490 basehttp 15960 13168 "GET /?c=Dinner HTTP/1.1" 200 4831
+INFO 2022-10-11 15:52:57,102 basehttp 15960 13168 "GET /recipe/18/ HTTP/1.1" 200 7105
+INFO 2022-10-11 15:52:58,628 views 15960 13168 url:/about/ method:GET 
+INFO 2022-10-11 15:52:58,634 basehttp 15960 13168 "GET /about/ HTTP/1.1" 200 3016
+INFO 2022-10-11 15:52:59,803 basehttp 15960 13168 "GET / HTTP/1.1" 200 10913
+INFO 2022-10-11 15:53:02,897 basehttp 15960 13168 "GET /login/ HTTP/1.1" 200 3547
+INFO 2022-10-11 15:53:03,698 views 15960 13168 url:/register/ method:GET 
+INFO 2022-10-11 15:53:03,710 basehttp 15960 13168 "GET /register/ HTTP/1.1" 200 4502
+INFO 2022-10-11 15:53:04,339 basehttp 15960 13168 "GET /login/ HTTP/1.1" 200 3547
+INFO 2022-10-11 15:53:06,384 basehttp 15960 13168 "POST /login/ HTTP/1.1" 302 0
+INFO 2022-10-11 15:53:06,422 basehttp 15960 13168 "GET / HTTP/1.1" 200 11054
+INFO 2022-10-11 15:53:12,430 views 15960 13168 url:/myrecipes/ method:GET 
+INFO 2022-10-11 15:53:12,444 basehttp 15960 13168 "GET /myrecipes/ HTTP/1.1" 200 9982
+INFO 2022-10-11 15:53:14,663 views 15960 13168 url:/myrecipes/ method:GET 
+INFO 2022-10-11 15:53:14,682 basehttp 15960 13168 "GET /myrecipes/?page=2 HTTP/1.1" 200 5827
+INFO 2022-10-11 15:53:22,498 basehttp 15960 13168 "GET /admin HTTP/1.1" 301 0
+INFO 2022-10-11 15:53:22,564 basehttp 15960 13168 "GET /admin/ HTTP/1.1" 200 5568
+INFO 2022-10-11 15:53:22,589 basehttp 15960 6504 "GET /staticfiles/admin/css/dashboard.css HTTP/1.1" 200 380
+INFO 2022-10-11 15:53:22,589 basehttp 15960 20444 "GET /staticfiles/admin/css/nav_sidebar.css HTTP/1.1" 200 2616
+INFO 2022-10-11 15:53:22,589 basehttp 15960 3424 "GET /staticfiles/admin/css/responsive.css HTTP/1.1" 200 18575
+INFO 2022-10-11 15:53:22,589 basehttp 15960 13168 "GET /staticfiles/admin/css/base.css HTTP/1.1" 200 19513
+INFO 2022-10-11 15:53:22,594 basehttp 15960 20948 "GET /staticfiles/admin/js/nav_sidebar.js HTTP/1.1" 200 3401
+INFO 2022-10-11 15:53:22,603 basehttp 15960 20948 "GET /staticfiles/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2022-10-11 15:53:22,615 basehttp 15960 20948 "GET /staticfiles/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2022-10-11 15:53:22,615 basehttp 15960 3424 "GET /staticfiles/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2022-10-11 15:53:22,632 basehttp 15960 20948 "GET /staticfiles/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2022-10-11 15:53:22,632 basehttp 15960 3424 "GET /staticfiles/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2022-10-11 15:53:22,632 basehttp 15960 20444 "GET /staticfiles/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2022-10-11 15:53:42,631 basehttp 15960 20444 "GET / HTTP/1.1" 200 11054

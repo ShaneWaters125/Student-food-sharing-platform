@@ -1,0 +1,19 @@
+{% extends 'recipes/base.html' %}
+{% block content %}
+    <div class="alert alert-danger" role="alert">
+        This recipe can contain allergens, please check it before cooking!
+    </div>
+    <article class="media content-section">
+        <img class="rounded-circle article-img" src="{{ object.image.url }}">
+        <div class="media-body">
+            <div class="article-metadata">
+                <a class="mr-2" href="#">{{ object.author }}</a>
+                <small class="text-muted">{{ object.dateAdded|date:"F d, Y" }}</small>
+            </div>
+            <h2 class="article-title">{{ object.recipeName }}</h2>
+            <p class="article-content">{{ object.description }}</p>
+        </div>
+    </article>
+{% endblock content %}
+
+

@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>In App template: {{ object.recipeName }}</h1>
+<p>Cost: {{ object.cost }} £</p>
+<p>{{ object.portion }} portions</p>
+<p>Description: {{ object.description }}</p>
+<p>Guide: {{ object.guide }}</p>
+<p>Cooking time: {{ object.cookingTime }} minutes</p>
+<p>Skills level: {{ object.skillsLevel }}</p>
+
+
+
+{% endblock %}

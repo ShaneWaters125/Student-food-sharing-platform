@@ -1,0 +1,32 @@
+{% extends 'recipes/base.html' %}
+{% block content %}
+    <div class="alert alert-danger" role="alert">
+        This recipe can contain allergens, please check it before cooking!
+    </div>
+    <article class="media content-section">
+        <img class="rounded-circle article-img" src="{{ object.image.url }}">
+        <div class="media-body">
+            <div class="article-metadata">
+                <a class="mr-2" href="{% url 'user-recipes' object.author.username %}">{{ object.author }}</a>
+                <small class="text-muted">{{ object.dateAdded|date:"F d, Y" }}</small>
+                {% if object.author == user %}
+                    <div>
+                        <a class="btn btn-secondary btn-sm mt-1 mb-1"
+                           href="{% url 'recipe-update' object.id %}">Update</a>
+                        <a class="btn btn-danger btn-sm mt-1 mb-1" href="{% url 'recipe-delete' object.id %}">Delete</a>
+                    </div>
+                {% endif %}
+            </div>
+            <h2 class="article-title">{{ object.recipeName }}</h2>
+            <p class="article-content">Description: {{ object.description }}</p>
+            <p class="article-content">Guide: {{ object.guide }}</p>
+            <p class="article-content">Recipe category: {{ object.recipeCategory }}</p>
+            <p class="article-content">Total cost {{ object.cost }}£</p>
+            <p class="article-content">Cooking time: {{ object.cookingTime }} minutes</p>
+            <p class="article-content">How many portions: {{ object.portion }}</p>
+            <p class="article-content">Skills level: {{ object.skillsLevel }}</p>
+        </div>
+    </article>
+{% endblock content %}
+
+

@@ -1,0 +1,9 @@
+{% extends "recipes/base.html" %}
+{% block content %}
+<div class="media">
+    <div class="media-body">
+        <p class="text-secondary">Your password has been successfully changed.</p>
+        <p class="text-secondary">Go to log in, click <a href="{% url 'login' %}">here</a>.</p>
+    </div>
+</div>
+{% endblock %}

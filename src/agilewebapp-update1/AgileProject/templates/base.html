@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Recipes web app for Agile project</title>
+</head>
+<body>
+    {% include 'navbar.html' %}
+
+    {% if messeges %}
+        {% for message in messages %}
+            <div class="alert alert-{{ message.tags }}">
+                {{ message }}
+            </div>
+        {% endfor %}
+    {% endif %}
+
+    {% block content %}
+        replace me
+    {% endblock %}
+</body>
+</html>
